@@ -1,0 +1,9 @@
+monai
+nibabel
+numpy
+scipy
+matplotlib
+scikit-image
+torch
+tqdm
+pyyaml
